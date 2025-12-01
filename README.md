@@ -22,21 +22,18 @@
             src="https://img.shields.io/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?style=for-the-badge&logo=youtube&label=Views&color=E1AD0E"
         />
     </a>
-  </p>
     <a href="https://www.youtube.com/@aleeepassarelli?sub_confirmation=1">
         <img
             alt="YouTube Channel Subscribers"
             src="https://img.shields.io/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?style=for-the-badge&logo=youtube&label=Inscritos&color=CE4630"
         />
     </a>
-  </p>
     <a href="https://www.linkedin.com/in/alepassarelli">
         <img
             alt="LinkedIn"
             src="https://img.shields.io/badge/LinkedIn-Meu%20Perfil-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-</p>
     <a href="https://github.com/@aleeepassarelli?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
