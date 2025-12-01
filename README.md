@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Aledev 
+# 👩‍🚀 Aledev 🖥️
 
 **`Desenvolvedora FullStack`**
 
