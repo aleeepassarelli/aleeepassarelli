@@ -15,20 +15,28 @@
 📫 Entre em contato comigo pelo e-mail: al.passarelli@gmail.com
 ```
 <p align="left">
-    <a href="https://www.youtube.com/@aleeepassarelli?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+    <a href="https://www.youtube.com/@aleeepassarelli">
+        <img
+            alt="YouTube Views"
+            title="Visualizações no YouTube"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&label=Views&labelColor=C79600"
         />
     </a>
-    <a href="https://www.youtube.com/@aleeepassarelli">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
+    <a href="https://www.youtube.com/@aleeepassarelli?sub_confirmation=1">
+        <img
+            alt="YouTube Subscribers"
+            title="Inscreva-se no meu canal"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscritos&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
-    </a> 
+    </a>
+    <a href="https://www.linkedin.com/in/alepassarelli">
+        <img
+            alt="LinkedIn"
+            title="Conecte-se no LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-Meu%20Perfil-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>
     <a href="https://github.com/@aleeepassarelli?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
