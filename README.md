@@ -6,6 +6,7 @@
 * Olá Mundo👋
 
 ---
+```markdown
 🤖 Pesquisa em IA com foco em LLMs baseados em Transformers e sistemas complexos e de aprendizado profundo.
 🔬 Desenvolvimento de pesquisa e formalização de técnicas em prompt engineering e espaços latentes.
 🧠 Apaixonado por cognição, línguagens, simbolismo, atenção, MoEs etc.
@@ -13,7 +14,7 @@
 🎥 Produzindo conteúdo de arte com IA .
 💬 Sempre aberto a conversar sobre pesquisas, projetos ou colaborações.
 📫 Entre em contato comigo pelo e-mail: al.passarelli@gmail.com
-
+```
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
