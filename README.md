@@ -4,7 +4,6 @@
 
 * Aledev/README.md​
 * Olá Mundo👋
-
 ---
 ```markdown
 🤖 Pesquisa em IA com foco em LLMs baseados em Transformers e sistemas complexos e de aprendizado profundo.
