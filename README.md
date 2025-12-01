@@ -3,7 +3,7 @@
 **`Desenvolvedora FullStack`**
 
 * Aledev/README.md​
-Olá Mundo👋
+* Olá Mundo👋
 
 ---
 🤖 Pesquisa em IA com foco em LLMs baseados em Transformers e sistemas complexos e de aprendizado profundo.
