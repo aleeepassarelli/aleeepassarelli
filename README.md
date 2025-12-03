@@ -129,18 +129,44 @@
 
 <br/>
 <br/>
+## 🧠 Estudos e Pesquisa
 
-🧠 Estudos e Pesquisa
-<p align="left">     
-    <img         alt="Semantic Latent Engineering"         src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/badge/SLE-Arquitetura%2520Latente-blue%3Fstyle%3Dfor-the-badge%26logo%3Dbrain%26labelColor%3D236ad3"
-        />     
-    <img         alt="Sistemas Dinâmicos"         src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/badge/Sistemas-Din%C3%A2micos%2520%2526%2520Estoc%C3%A1sticos-red%3Fstyle%3Dfor-the-badge%26logo%3Dmathworks%26labelColor%3DCE4630"     
-        />     
-    <img         alt="Interpretabilidade de LLMs"         src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/badge/LLM-Interpretabilidade-informational%3Fstyle%3Dfor-the-badge%26logo%3Dmicroscope%26labelColor%3D0077B5"     
-        />     
-    <img         alt="Teoria do Raciocínio"         src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/badge/Teoria-Racioc%C3%ADnio%2520%2526%2520Simbolismo-orange%3Fstyle%3Dfor-the-badge%26logo%3Dtensorflow%26labelColor%3DE1AD0E"     
-        /> 
+<p align="left">
+    <img 
+        alt="Semantic Latent Engineering" 
+        src="https://custom-icon-badges.demolab.com/badge/SLE-Arquitetura%20Latente-3498DB?style=for-the-badge&logo=brain&labelColor=236ad3" 
+    />
+    <img 
+        alt="Sistemas Dinâmicos" 
+        src="https://custom-icon-badges.demolab.com/badge/Sistemas-Dinâmicos%20%26%20Estocásticos-red?style=for-the-badge&logo=mathworks&labelColor=CE4630" 
+    />
+    <img 
+        alt="Interpretabilidade de LLMs" 
+        src="https://custom-icon-badges.demolab.com/badge/LLM-Interpretabilidade-17A2B8?style=for-the-badge&logo=microscope&labelColor=0077B5" 
+    />
+    <img 
+        alt="Teoria do Raciocínio" 
+        src="https://custom-icon-badges.demolab.com/badge/Teoria-Raciocínio%20%26%20Simbolismo-FF8C00?style=for-the-badge&logo=tensorflow&labelColor=E1AD0E" 
+    />
 </p>
 
-🚀 Desenvolvimento e Inovação
-<p align="left">     <img         alt="Desenvolvimento FullStack"         src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/badge/FullStack-Web%2520%2526%2520Cloud-success%3Fstyle%3Dfor-the-badge%26logo%3Drocket%26labelColor%3D2ea44f"     />     <img         alt="Engenharia de Prompt Avançada"         src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/badge/Prompt%2520Eng-Avan%C3%A7ada-blueviolet%3Fstyle%3Dfor-the-badge%26logo%3Dtools%26labelColor%3D8a2be2"     />     <img         alt="Arquitetura Modular"         src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/badge/Arquitetura-Modular%2520(ACC)-important%3Fstyle%3Dfor-the-badge%26logo%3Dlightbulb%26labelColor%3DF7931E"     />     <img         alt="Aprendizado Contínuo"         src="https://www.google.com/search?q=https://custom-icon-badges.demolab.com/badge/ICRL-No%2520Context%2520Learning-gray%3Fstyle%3Dfor-the-badge%26logo%3Dstackexchange%26labelColor%3D949494"     /> </p>
+## 🚀 Desenvolvimento e Inovação
+
+<p align="left">
+    <img 
+        alt="Desenvolvimento FullStack" 
+        src="https://custom-icon-badges.demolab.com/badge/FullStack-Web%20%26%20Cloud-28A745?style=for-the-badge&logo=rocket&labelColor=2ea44f" 
+    />
+    <img 
+        alt="Engenharia de Prompt Avançada" 
+        src="https://custom-icon-badges.demolab.com/badge/Prompt%20Eng-Avançada-9932CC?style=for-the-badge&logo=tools&labelColor=8a2be2" 
+    />
+    <img 
+        alt="Arquitetura Modular" 
+        src="https://custom-icon-badges.demolab.com/badge/Arquitetura-Modular%20(ACC)-F7931E?style=for-the-badge&logo=lightbulb&labelColor=F7931E" 
+    />
+    <img 
+        alt="Aprendizado Contínuo" 
+        src="https://custom-icon-badges.demolab.com/badge/ICRL-No%20Context%20Learning-6C757D?style=for-the-badge&logo=stackexchange&labelColor=949494" 
+    />
+</p>
