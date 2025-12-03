@@ -129,36 +129,47 @@
 
 <br/>
 <br/>
+
+---
+
 ## 🧠 Estudos e Pesquisa
 
-<p align="left">    
-    <img         alt="Semantic Latent Engineering"         src="https://img.shields.io/badge/SLE-Arquitetura%20Latente-236ad3?style=for-the-badge&logo=brain&logoColor=white"    
-        />    
-    <img         alt="Sistemas Dinâmicos"         src="https://img.shields.io/badge/Sistemas-Estocásticos-CE4630?style=for-the-badge&logo=redhat&logoColor=white"    
-        />     
-    <img         alt="Interpretabilidade de LLMs"         src="https://img.shields.io/badge/LLM-Interpretabilidade-0077B5?style=for-the-badge&logo=cogs&logoColor=white"     
-        />     
-    <img         alt="Teoria do Raciocínio"         src="https://img.shields.io/badge/Teoria-Raciocínio%20%26%20Simbolismo-E1AD0E?style=for-the-badge&logo=tensorflow&logoColor=white"    
-        />
-</p>
+<img 
+    alt="SLE - Arquitetura Latente" 
+    src="https://img.shields.io/badge/SLE-Arquitetura%20Latente-236ad3?style=for-the-badge&logo=brain&logoColor=white"
+/>
+<img 
+    alt="Sistemas Estocásticos" 
+    src="https://img.shields.io/badge/Sistemas-Estocásticos-CE4630?style=for-the-badge&logo=redhat&logoColor=white"
+/>
+<img 
+    alt="LLM - Interpretabilidade" 
+    src="https://img.shields.io/badge/LLM-Interpretabilidade-0077B5?style=for-the-badge&logo=cogs&logoColor=white"
+/>
+<img 
+    alt="Teoria - Raciocínio & Simbolismo" 
+    src="https://img.shields.io/badge/Teoria-Raciocínio%20%26%20Simbolismo-E1AD0E?style=for-the-badge&logo=tensorflow&logoColor=white"
+/>
+
+<br/>
 
 ## 🚀 Desenvolvimento e Inovação
 
-<p align="left">
-    <img 
-        alt="Desenvolvimento FullStack" 
-        src="https://custom-icon-badges.demolab.com/badge/FullStack-Web%20%26%20Cloud-28A745?style=for-the-badge&logo=rocket&labelColor=2ea44f" 
-    />
-    <img 
-        alt="Engenharia de Prompt Avançada" 
-        src="https://custom-icon-badges.demolab.com/badge/Prompt%20Eng-Avançada-9932CC?style=for-the-badge&logo=tools&labelColor=8a2be2" 
-    />
-    <img 
-        alt="Arquitetura Modular" 
-        src="https://custom-icon-badges.demolab.com/badge/Arquitetura-Modular%20(ACC)-F7931E?style=for-the-badge&logo=lightbulb&labelColor=F7931E" 
-    />
-    <img 
-        alt="Aprendizado Contínuo" 
-        src="https://custom-icon-badges.demolab.com/badge/ICRL-No%20Context%20Learning-6C757D?style=for-the-badge&logo=stackexchange&labelColor=949494" 
-    />
-</p>
+<img 
+    alt="Desenvolvimento FullStack" 
+    src="https://img.shields.io/badge/FullStack-Web%20%26%20Cloud-2ea44f?style=for-the-badge&logo=web&logoColor=white"
+/>
+<img 
+    alt="Prompt Eng - Avançada" 
+    src="https://img.shields.io/badge/Prompt%20Eng-Avançada-8a2be2?style=for-the-badge&logo=gear&logoColor=white"
+/>
+<img 
+    alt="Arquitetura Modular (ACC)" 
+    src="https://img.shields.io/badge/Arquitetura-Modular%20(ACC)-F7931E?style=for-the-badge&logo=atom&logoColor=white"
+/>
+<img 
+    alt="ICRL - No Context Learning" 
+    src="https://img.shields.io/badge/ICRL-No%20Context%20Learning-949494?style=for-the-badge&logo=search&logoColor=white"
+/>
+
+<br/>
