@@ -131,23 +131,15 @@
 <br/>
 ## 🧠 Estudos e Pesquisa
 
-<p align="left">
-    <img 
-        alt="Semantic Latent Engineering" 
-        src="https://custom-icon-badges.demolab.com/badge/SLE-Arquitetura%20Latente-3498DB?style=for-the-badge&logo=brain&labelColor=236ad3" 
-    />
-    <img 
-        alt="Sistemas Dinâmicos" 
-        src="https://custom-icon-badges.demolab.com/badge/Sistemas-Dinâmicos%20%26%20Estocásticos-red?style=for-the-badge&logo=mathworks&labelColor=CE4630" 
-    />
-    <img 
-        alt="Interpretabilidade de LLMs" 
-        src="https://custom-icon-badges.demolab.com/badge/LLM-Interpretabilidade-17A2B8?style=for-the-badge&logo=microscope&labelColor=0077B5" 
-    />
-    <img 
-        alt="Teoria do Raciocínio" 
-        src="https://custom-icon-badges.demolab.com/badge/Teoria-Raciocínio%20%26%20Simbolismo-FF8C00?style=for-the-badge&logo=tensorflow&labelColor=E1AD0E" 
-    />
+<p align="left">    
+    <img         alt="Semantic Latent Engineering"         src="https://img.shields.io/badge/SLE-Arquitetura%20Latente-236ad3?style=for-the-badge&logo=brain&logoColor=white"    
+        />    
+    <img         alt="Sistemas Dinâmicos"         src="https://img.shields.io/badge/Sistemas-Estocásticos-CE4630?style=for-the-badge&logo=redhat&logoColor=white"    
+        />     
+    <img         alt="Interpretabilidade de LLMs"         src="https://img.shields.io/badge/LLM-Interpretabilidade-0077B5?style=for-the-badge&logo=cogs&logoColor=white"     
+        />     
+    <img         alt="Teoria do Raciocínio"         src="https://img.shields.io/badge/Teoria-Raciocínio%20%26%20Simbolismo-E1AD0E?style=for-the-badge&logo=tensorflow&logoColor=white"    
+        />
 </p>
 
 ## 🚀 Desenvolvimento e Inovação
