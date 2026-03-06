@@ -1,6 +1,6 @@
 # 👩‍🚀 Aledev 🖥️
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 * Aledev/README.md​
 * Olá Mundo👋
